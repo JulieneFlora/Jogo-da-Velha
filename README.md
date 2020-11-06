@@ -4,7 +4,7 @@
 
 # 📌 description:
 
-This game was developed to put some JavaScript concepts into practice
+This game was developed to put some JavaScript concepts into practice.
 
 ## What are the tecnologies used in this project?
-• The technologies used in this project are: HTML, CSS and Javascript
+• The technologies used in this project are: HTML, CSS and Javascript.
